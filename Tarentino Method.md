@@ -1,0 +1,1 @@
+one night. no distractions. stay up till everything is noted. work out a plan. set a goal. aim for it. and track the path

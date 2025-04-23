@@ -1,0 +1,3 @@
+Ik ben een leergierige en sociale developer in ontwikkeling, met oog voor structuur en een creatieve benadering. Ik werk graag aan frontend projecten waar vorm en functie samenkomen, en vind de logica van backend en embedded systemen juist weer intrigerend.
+
+Bij projecten zoals _Bliep!_ heb ik ervaren hoe waardevol het is om met een helder plan, open communicatie en een goede dosis enthousiasme iets op te bouwen van idee tot eindresultaat. Naast coderen speel ik gitaar, sport ik graag en verdiep ik me in game development.

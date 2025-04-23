@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"1636dea92922a830","type":"text","text":"\tLogin","x":238,"y":-900,"width":250,"height":140,"color":"1"},
+		{"id":"2ed4c1b72a2b77ad","type":"text","text":"\thome\n\n","x":238,"y":-720,"width":250,"height":140,"color":"3"},
+		{"id":"0044fcec1f802b84","type":"text","text":"get_pinned(forms)","x":540,"y":-680,"width":250,"height":60,"color":"3"},
+		{"id":"9f75a08dc2ffbf0b","type":"text","text":"Login func\n\n","x":540,"y":-899,"width":250,"height":60,"color":"1"},
+		{"id":"150f52984ef43ac5","type":"text","text":"Reset pass ","x":540,"y":-820,"width":250,"height":60,"color":"1"},
+		{"id":"f83f924d30d1b8b0","type":"text","text":"rand_string","x":809,"y":-903,"width":250,"height":60,"color":"2"},
+		{"id":"93e720c64bfdcbb5","type":"text","text":"\tSettings\n\t","x":238,"y":-513,"width":250,"height":173,"color":"6"},
+		{"id":"fab87cc6da349b1a","type":"text","text":"change pinned form","x":-42,"y":-456,"width":250,"height":60,"color":"6"},
+		{"id":"58017d8eea664422","type":"text","text":"absence request process","x":860,"y":-503,"width":250,"height":50},
+		{"id":"8564dd7aea3ef118","type":"text","text":"Day attendence edit","x":860,"y":-426,"width":250,"height":50,"color":"4"},
+		{"id":"e3f6f3e8d82fa9c1","type":"text","text":"1. attendence check\n2. attendence edit\n3. student edit\n>    student add\n   > student delete\n   > parameter change\n1. Education edit\n2. Bulk Student add","x":515,"y":-609,"width":300,"height":312,"color":"5"},
+		{"id":"bad530741902d60f","type":"text","text":"Attendence edit:\n> date\n> toggle all\n> toggle single\n> time edit\n> status edit","x":860,"y":-340,"width":250,"height":204,"color":"4"}
+	],
+	"edges":[
+		{"id":"4459f5227b9041af","fromNode":"1636dea92922a830","fromSide":"right","toNode":"9f75a08dc2ffbf0b","toSide":"left","toEnd":"none"},
+		{"id":"a17f873963684ca4","fromNode":"1636dea92922a830","fromSide":"bottom","toNode":"2ed4c1b72a2b77ad","toSide":"top"},
+		{"id":"a6023781e9a69fdc","fromNode":"2ed4c1b72a2b77ad","fromSide":"right","toNode":"0044fcec1f802b84","toSide":"left"},
+		{"id":"4232566ad5b227d6","fromNode":"0044fcec1f802b84","fromSide":"bottom","toNode":"e3f6f3e8d82fa9c1","toSide":"top","toEnd":"none"},
+		{"id":"de8f34e851a54289","fromNode":"e3f6f3e8d82fa9c1","fromSide":"right","toNode":"58017d8eea664422","toSide":"left","toEnd":"none"},
+		{"id":"5f361547a9f04d06","fromNode":"9f75a08dc2ffbf0b","fromSide":"right","toNode":"f83f924d30d1b8b0","toSide":"left"},
+		{"id":"4f49b451c8177e09","fromNode":"2ed4c1b72a2b77ad","fromSide":"bottom","toNode":"93e720c64bfdcbb5","toSide":"top"},
+		{"id":"d4ae8028fa882f53","fromNode":"93e720c64bfdcbb5","fromSide":"left","toNode":"fab87cc6da349b1a","toSide":"right"},
+		{"id":"8a7935328700a5ab","fromNode":"8564dd7aea3ef118","fromSide":"left","toNode":"e3f6f3e8d82fa9c1","toSide":"right","toEnd":"none"},
+		{"id":"ba80a8b0afe8ec7f","fromNode":"9f75a08dc2ffbf0b","fromSide":"bottom","toNode":"150f52984ef43ac5","toSide":"top"}
+	]
+}

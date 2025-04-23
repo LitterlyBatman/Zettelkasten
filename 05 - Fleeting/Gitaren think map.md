@@ -1,0 +1,1 @@
+Dit jaar, (het liefste z.s.m) ga ik een gitaar halen. altijd als ik een mooi stuk gitaar hoor wil ik het zoo graag zelf kunnen spelen. Muziekaal aangelegen ben ik wel want ik heb al 3 instrumenten onder de riem die ik kan spelen maar daar wil ik er komende jaren nog een aantal bij hebben.ssws  

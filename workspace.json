@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "1a5328bc9f6f408f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f525a555144e6e45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8566a329d2da8070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "challenge 2, pokedex/Inleveren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "916a42f2ba0e84f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "challenge 2, pokedex/Stand-up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e300be6e8df905f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5dfc2c351a352bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "08bced5a2965f99b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a78377e3f8f4a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50bb25d93f236d8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ffe28f00bedab80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf73f1fd3480618b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc9ac34b698a1ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ba08e76c7c8ddf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f98e0bf81152bdd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89f9b92e826bbe95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4db0737484b55773",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e300be6e8df905f2",
+  "lastOpenFiles": [
+    "Obsidian Vault/Better Jonah+/wishlist/EDC.md",
+    "Untitled.canvas",
+    "Obsidian Vault/Better Jonah+/hygiene/Hygiene.md",
+    "challenge 2, pokedex/Stand-up.md",
+    "challenge 2, pokedex/scrum.md",
+    "challenge 2, pokedex/Presentatie.md",
+    "challenge 2, pokedex/Plan van aanpak.md",
+    "challenge 2, pokedex/Inleveren.md",
+    "challenge 1, selfsite/Lay-out.md",
+    "Webshop/Content.md",
+    "DATABASE/Wat.md",
+    "DATABASE",
+    "Untitled.md",
+    "challenge 1, selfsite/scrum/2023-09-28.md",
+    "2023-10-23.md",
+    "challenge 2, pokedex",
+    "FEEDBACK/Feedback challenge 1, portfolio.md",
+    "FEEDBACK",
+    "challenge 1, selfsite/scrum",
+    "Content.md",
+    "2023-09-28.md",
+    "Webshop/scrum",
+    "Untitled 1",
+    "Webshop",
+    "challenge 1, selfsite"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "showRibbon": true,
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 15,
+  "textFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

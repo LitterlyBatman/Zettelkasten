@@ -1,0 +1,1 @@
+een social media app waarmee mensen overal op de wereld speciale plekken met speciale herinneringen kunnen delen. het grootste idee is dat mensen op de kaart kunnen kijken naar verschillende locaties en dat regios of gebieden een feed genereren waar mensen doorheen kunnen scrollen.

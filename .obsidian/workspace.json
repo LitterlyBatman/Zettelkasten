@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "b04f10ad804e8dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "496004854cb82b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3503c4a228b245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1 - Bliep Admin Website"
+            }
+          },
+          {
+            "id": "4e3236b80c9565f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ee8752d4c7d8e094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/templates/Software Documentatie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software Documentatie"
+            }
+          },
+          {
+            "id": "e075b10c64608f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/project 52 (2025).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "project 52 (2025)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f6850024b16aaa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebfb4d320aa1ffa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7844528cea35ab66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "80567592fac55207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1491614bc6d31b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b2eaaee4a45c9856",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb55d1b01b0368b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0d0ade7d9dceb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b303a20d8bb58164",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1 - Bliep Admin Website"
+            }
+          },
+          {
+            "id": "6cb082b51fc225e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - Permanent/project 52.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from project 52"
+            }
+          },
+          {
+            "id": "f7df2ab4019f22b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a83ac398b05b3f54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 rules to writing readable code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3 rules to writing readable code"
+            }
+          },
+          {
+            "id": "1013f2350ad80d3d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e075b10c64608f2e",
+  "lastOpenFiles": [
+    "99 - Meta/templates/Software Documentatie.md",
+    "99 - Meta/templates/Full note.md",
+    "99 - Meta/Untitled.md",
+    "99 - Meta/templates/Field note.md",
+    "3 rules to writing readable code.md",
+    "99 - Meta/templates",
+    "04 - Permanent/project 52 (2025).md",
+    "02 - Areas/Must watch.md",
+    "06 - full notes/Vinyl wishlist.md",
+    "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
+    "99 - Meta/coding project.md",
+    "01 - Projects/!Bliep/C - UI.md",
+    "01 - Projects/!Bliep/B - Bliep!.md",
+    "01 - Projects/!Bliep/D - APP.md",
+    "01 - Projects/!Bliep/4 - Bliep v2.canvas",
+    "01 - Projects/!Bliep/3 - Bliep Function Benodigheden.md",
+    "01 - Projects/!Bliep/2 - Bliep bespreking Jibbe.md",
+    "01 - Projects/ADH-Diddy.md",
+    "01 - Projects/embrace/Design Filosofie.md",
+    "03 - Resources/Images/Pasted image 20240311135601.png",
+    "React Native.md",
+    "the integrate structural coherence of humanity.md",
+    "Untitled.md",
+    "Tarentino Method.md",
+    "02 - Areas/C - Business/Linked-In Beschrijving.md",
+    "02 - Areas/B - School/avo/LOB/LOB stage opdracht.md",
+    "01 - Projects/embrace/website",
+    "Mathematics for programmers.md",
+    "2024 reflection.md",
+    "99 - Meta/wishlist.md",
+    "Pasted image 20250408131334.png",
+    "02 - Areas/01 - Zelf studie",
+    "03 - Resources/Images/screen.png",
+    "03 - Resources/Images/mittzon-bureau-walnootfineer-zwart__1209402_pe909191_s5.avif",
+    "03 - Resources/Images/Pasted image 20250407222633.png",
+    "03 - Resources/Images/Pasted image 20250406214133.png",
+    "Pasted image 20250406214235.png",
+    "03 - Resources/Images/Pasted image 20250406214022.png",
+    "02 - Areas/A - Computer sience",
+    "07 - Archived",
+    "03 - Resources/Images/Pasted image 20240917201341.png",
+    "03 - Resources/Images/Pasted image 20250202211459.png",
+    "- 3 tags/Untitled",
+    "How to concentrate",
+    "02 - Areas/B - School/avo/Engels/Untitled 2",
+    "02 - Areas/B - School/avo/Engels/Untitled 1",
+    "02 - Areas/B - School/avo/Engels/Untitled",
+    "Untitled.canvas"
+  ]
+}

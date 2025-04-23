@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "acc364ed5c031f42",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f42a438ea42e0a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1829d51cd9741cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e758c3b3205287a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cbc1e681b6ddbbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "#2 wishlist/material/Horloges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1088a61970023d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "#3 essays/The Locus rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38835f997a975cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d34b553683845e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c50228f850c0a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049e9bdbcccb76f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ee242e3cd1981a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1931a974b848005d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "821517262e7c38ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e1ccd19339a2e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecb1ec805f2c3e54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5feb2b2e6b70b41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19c7809212ed4a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6561f1baf03fe36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38835f997a975cfd",
+  "lastOpenFiles": [
+    "#3 essays/37.md",
+    "#3 essays/The Locus rule.md",
+    "Calendar.md",
+    "#2 wishlist/material/Horloges.md",
+    "Help.md",
+    "#3 essays",
+    "Cum Laude mappen.md",
+    "#2 wishlist/material/tekenen.md",
+    "#2 wishlist/self/hygiene.md",
+    "#1 self improvement/Fitness.md",
+    "#3 essays/2.10379506 minutes.md",
+    "#3 essays/How to persue multiple interests.md",
+    "#2 wishlist/self/Fitness (gym).md",
+    "wishlist/material/tekenen",
+    "wishlist/Muziek.md",
+    "wishlist/Digitaal.md",
+    "#2 wishlist/material",
+    "#2 wishlist/self",
+    "wishlist/Fitness.md",
+    "wishlist/material/tekenen/How to conversate with anyone.md",
+    "icons/drake.md",
+    "Workshops",
+    "dag doelen/dag doelen.md",
+    "icons",
+    "#2 wishlist",
+    "#1 self improvement",
+    "dag doelen"
+  ]
+}
