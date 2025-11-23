@@ -1,5 +1,8 @@
- 2024 - 12 - 13 12:05
+---
+topic: school
+---
 
+2024 - 12 - 13 12:05
 tags: [[Nederlands 2024-2025]] [[School]]
 
 progress: >

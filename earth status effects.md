@@ -1,0 +1,1 @@
+passive: I understand it now effect: when you miss an attack to a target, grant permanent debuff "understood" to the target. all subsequent attacks to the target would be guaranteed critical hits

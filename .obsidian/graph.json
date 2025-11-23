@@ -1,17 +1,59 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "[\"topic\":school]",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 65437
+      }
+    },
+    {
+      "query": "[\"topic\":development]",
+      "color": {
+        "a": 1,
+        "rgb": 1768447
+      }
+    },
+    {
+      "query": "[\"topic\":Comp-Sci]",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
+    {
+      "query": "[\"topic\":software-docu]",
+      "color": {
+        "a": 1,
+        "rgb": 2056959
+      }
+    },
+    {
+      "query": "[\"topic\":games]",
+      "color": {
+        "a": 1,
+        "rgb": 7612927
+      }
+    },
+    {
+      "query": "[\"topic\":gym]",
+      "color": {
+        "a": 1,
+        "rgb": 14104290
+      }
+    },
+    {
+      "query": "[\"topic\":business]",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3406168339078572,
-  "close": true
+  "scale": 0.439604597965452,
+  "close": false
 }

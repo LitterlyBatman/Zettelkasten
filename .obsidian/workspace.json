@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "496004854cb82b8a",
+        "id": "4f1388f3f732f872",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3503c4a228b245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1 - Bliep Admin Website"
-            }
-          },
-          {
-            "id": "4e3236b80c9565f6",
+            "id": "e9408ab47eb68d25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,57 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "ee8752d4c7d8e094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/templates/Software Documentatie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Software Documentatie"
-            }
-          },
-          {
-            "id": "e075b10c64608f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/project 52 (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "project 52 (2025)"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#fleeting",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,33 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "right": {
     "id": "b2eaaee4a45c9856",
     "type": "split",
     "children": [
       {
-        "id": "cb55d1b01b0368b5",
+        "id": "beb3d23b781f86e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0d0ade7d9dceb0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b303a20d8bb58164",
+            "id": "76d143ac8490312d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
+                "file": "Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 - Bliep Admin Website"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "6cb082b51fc225e9",
+            "id": "65b71d5d69952795",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/project 52.md",
+                "file": "Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from project 52"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "f7df2ab4019f22b6",
+            "id": "eacdf3e76a4dd70c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -216,22 +133,22 @@
             }
           },
           {
-            "id": "a83ac398b05b3f54",
+            "id": "9b9e60da1615dd3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 rules to writing readable code.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 rules to writing readable code"
+              "title": "Outline of Untitled"
             }
           },
           {
-            "id": "1013f2350ad80d3d",
+            "id": "db68cd722995fc94",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -241,73 +158,75 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e075b10c64608f2e",
+  "active": "db68cd722995fc94",
   "lastOpenFiles": [
-    "99 - Meta/templates/Software Documentatie.md",
-    "99 - Meta/templates/Full note.md",
-    "99 - Meta/Untitled.md",
-    "99 - Meta/templates/Field note.md",
-    "3 rules to writing readable code.md",
-    "99 - Meta/templates",
-    "04 - Permanent/project 52 (2025).md",
-    "02 - Areas/Must watch.md",
-    "06 - full notes/Vinyl wishlist.md",
-    "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
-    "99 - Meta/coding project.md",
-    "01 - Projects/!Bliep/C - UI.md",
-    "01 - Projects/!Bliep/B - Bliep!.md",
-    "01 - Projects/!Bliep/D - APP.md",
-    "01 - Projects/!Bliep/4 - Bliep v2.canvas",
-    "01 - Projects/!Bliep/3 - Bliep Function Benodigheden.md",
-    "01 - Projects/!Bliep/2 - Bliep bespreking Jibbe.md",
+    "05 - Fleeting/auto theorie.md",
+    "Pasted image 20251123174519.png",
+    "Pasted image 20251123173342.png",
+    "01 - Projects/Project Spartan/De U.M.o.H/oefeningen.md",
+    "01 - Projects/Project Spartan/De U.M.o.H/Catalogus.md",
     "01 - Projects/ADH-Diddy.md",
-    "01 - Projects/embrace/Design Filosofie.md",
-    "03 - Resources/Images/Pasted image 20240311135601.png",
-    "React Native.md",
-    "the integrate structural coherence of humanity.md",
-    "Untitled.md",
-    "Tarentino Method.md",
-    "02 - Areas/C - Business/Linked-In Beschrijving.md",
-    "02 - Areas/B - School/avo/LOB/LOB stage opdracht.md",
-    "01 - Projects/embrace/website",
-    "Mathematics for programmers.md",
-    "2024 reflection.md",
-    "99 - Meta/wishlist.md",
-    "Pasted image 20250408131334.png",
-    "02 - Areas/01 - Zelf studie",
-    "03 - Resources/Images/screen.png",
-    "03 - Resources/Images/mittzon-bureau-walnootfineer-zwart__1209402_pe909191_s5.avif",
-    "03 - Resources/Images/Pasted image 20250407222633.png",
-    "03 - Resources/Images/Pasted image 20250406214133.png",
-    "Pasted image 20250406214235.png",
-    "03 - Resources/Images/Pasted image 20250406214022.png",
-    "02 - Areas/A - Computer sience",
-    "07 - Archived",
-    "03 - Resources/Images/Pasted image 20240917201341.png",
-    "03 - Resources/Images/Pasted image 20250202211459.png",
-    "- 3 tags/Untitled",
-    "How to concentrate",
-    "02 - Areas/B - School/avo/Engels/Untitled 2",
-    "02 - Areas/B - School/avo/Engels/Untitled 1",
-    "02 - Areas/B - School/avo/Engels/Untitled",
+    "catalo.md",
+    "open.md",
+    "Schema.md",
+    "FWAV Architecture.md",
+    "FWaV Back-End.md",
+    "Ontwikkel plan Energiespel.NL.md",
+    "Opdracht Geert-Jan Driessen Embedded 9-29-2025.md",
+    "DeBuggers.md",
+    "Shalender.md",
+    "Energie Spel .NL.md",
+    "Gesprek Geert-Jan Embedded.md",
+    "Game.md",
+    "ListIt.md",
+    "02 - Areas/Must watch.md",
+    "99 - Meta/templates/Software Documentatie.md",
+    "Examen Presentatie.md",
+    "niew vista ICT concept.md",
+    "Sollicitatiebrief Café Servaas.md",
+    "Maastrichts Vista Partij.md",
+    "excercises.md",
+    "Daily guitar excercises.md",
+    "99 - Meta/fitness.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "verkeersborden1.png",
+    "verkeersborden2.png",
+    "verkeersborden3.png",
+    "verkeersborden4.png",
+    "Pasted image 20251026195845.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Verslag P4",
+    "Pasted image 20250929131908.png",
+    "Gesprek Geert-Jan 9/29",
+    "Gesprek Geert-Jan 9",
+    "FWaVgroepsindeling.jpeg",
+    "WhatsApp Image 2025-09-15 at 14.42.06.jpeg",
+    "00 - Maps Of Content/School",
+    "00 - Maps Of Content/development/Portfolio",
+    "00 - Maps Of Content/Trading",
+    "01 - Projects/!Bliep/4 - Bliep v2.canvas",
     "Untitled.canvas"
   ]
 }

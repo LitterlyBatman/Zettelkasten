@@ -1,0 +1,8 @@
+- [ ] i theorie leren
+- [ ] workout schema aanpassen en maken voornieuwe doelen
+- [ ] trainen
+- [ ] opruimen
+- [ ] programmeren,
+- [ ] bedrijven scouten BPV e-mails voorbereiden.
+- [ ] traden
+- [ ] lezen

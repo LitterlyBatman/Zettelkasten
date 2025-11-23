@@ -1,0 +1,1 @@
+Ik wil een roblox game maken waar een speler naar een droom casino kan gaan, alle spellen kan spelen die ze willen terwijl er geen repercussies zijn. om duit werkelijkheid te maken moet ik eerst alle spellen die in een casino worden gespeeld noteren samen met hun werking. 

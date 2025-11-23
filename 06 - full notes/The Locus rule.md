@@ -8,11 +8,11 @@ progress: >>>
 
 # The Locus rule
 
-How to stay motivated
-===========================
+## Hoe blijf je gemotiveerd?
 
-Locus of control
---
+
+###  Locus of control
+---
 
 in 1998  heeft Prof. M Mueller een onderzoek geconstrueert aan de universiteit van cambridge
 

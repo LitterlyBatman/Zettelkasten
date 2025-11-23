@@ -1,3 +1,7 @@
+---
+topic:
+---
+
 {{date: YYYY - HH - DD}} {{time}}
 
 tags: 

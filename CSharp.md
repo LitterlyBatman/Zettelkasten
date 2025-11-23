@@ -1,3 +1,15 @@
+---
+topic: development
+---
+
+ 2025 - 14 - 23 14:10
+
+tags: [[]]
+
+progress: >>
+
+# CSharp
+
  2025 - 13 - 26 13:00
 
 tags: [[self study]] [[software-development]] 
@@ -14,5 +26,8 @@ De taal lijkt heel erg op C++ en Java wat betekend dat het makkelijk is voor ont
 ----
 Object Georienteerd Programmeren
 het programmeren rond data en 
+**Refrences**
+--
+
 **Refrences**
 --
