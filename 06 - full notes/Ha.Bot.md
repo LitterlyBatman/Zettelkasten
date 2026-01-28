@@ -1,9 +1,13 @@
+---
+topic: business
+---
+
+
  2024 - 11 - 21 11:39
 
 tags: [[Business]] [[code]] 
 
 progress: >>
-
 # Ha.Bot
 
 The goal with creating Ha.Bot is to create a self improvement app (possibly) powered by AI

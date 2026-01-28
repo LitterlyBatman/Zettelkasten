@@ -1,21 +1,150 @@
-2024 - 18 - 19 18:26
+---
+topic: gym
+---
 
-tags: 
 
-progress: 
+```dataviewjs
+// === CONFIG ===
+const SHOW_COLOR_STRIPE = true;   // verticale kleurstreep links
+const COLOR_TEXT = true;         // spiergroep tekst kleuren
 
-# Catalogus
+const databaseFile = "oefeningen";
 
-Hieronder: een uitgewerkte selectie van oefeningen gesorteerd op getrainde spiergroep. Dit zal een gepersonaliseerde catalogus aan oefeningen die ik fijn vind zijn. Ik maak deze lijst om het ontwerpen van workouts een stuk makkelijker te staan, zo vermijd ik alle oefenignen die ik niet fijn vind.
+// === KLEUREN PER SPIERGROEP ===
+const COLORS = {
+	"Chest": "#52eea3",
+	"Back": "#54b6f8",
+	"Legs": "#437cf3",
+	"Shoulders": "#9446f8",
+	"Arms": "#c952ed",
+	"Core": "#e54f9b",
+	"Abs": "#e3365e"
+};
+w
+// === DATA OPHALEN ===
+const file = dv.page(databaseFile);
+if (!file || !file.oefeningen) {
+	dv.el("p", "⚠️ Geen oefeningen gevonden — check je YAML bestand.");
+}
+const data = file?.oefeningen ?? [];
 
-"iets om altijd in het achterhoofd te houden tijdens het uitkiezen van oefeningen is de kant waar de vezels van de spier naartoe gaan. dit heeft namelijk een enorme impact op hoe een spier getraint word en hoeveel hypertrophy word bereikt" - maryn
-Borst 
-**Refrences**
---
+// === FILTER UI ===
+const filterContainer = dv.el("div", "", { cls: "filters" });
 
--- 
-Upper chest: upper chest training stems from upper pushing motions and tension focussed sweeping excersices. 
-> Kneeling landmine press: a low loaded excersize that can be practically performed under any -                                              load meaning its a valid excersize for any strenght  group
-> UCV raises: an excersize in which you raise a dumbell cross-up from your body allowing the  -                         dumbell to make an arch parralel to your body. 
-> Underhand DB press: The underhand DB press is performed on a flat bench. Its a greater -                                              excersize to target and isolate the upper chest muscle fibers in events of                                        limitations in equipment. Thisexxcersize shows to be up to 30% more                                             effective for the upper chest muscles than the traditional flat bench press.
-> DB incline press: This is one of the most effective and most beloved upper chest excersizes
+function makeSelect(label, key) {
+	const wrap = document.createElement("label");
+	wrap.textContent = label + ": ";
+	const select = document.createElement("select");
+
+	select.innerHTML =
+		`<option value="">(alle)</option>` +
+		[...new Set(data.map(x => x[key]))]
+			.filter(Boolean)
+			.sort()
+			.map(v => `<option value="${v}">${v}</option>`)
+			.join("");
+
+	wrap.appendChild(select);
+	filterContainer.appendChild(wrap);
+	return select;
+}
+
+const spiergroepSelect = makeSelect("Spiergroep", "spiergroep");
+const typeSelect = makeSelect("Type", "type");
+const moeilijkheidSelect = makeSelect("Moeilijkheid", "moeilijkheid");
+const equipmentSelect = makeSelect("Equipment", "equipment");
+
+// === ZOEKVELD ===
+const searchWrap = document.createElement("label");
+searchWrap.textContent = "Zoek: ";
+const searchInput = document.createElement("input");
+searchInput.type = "text";
+searchInput.placeholder = "zoek op naam...";
+searchWrap.appendChild(searchInput);
+filterContainer.appendChild(searchWrap);
+
+// === TABELCONTAINER ===
+const tableContainer = dv.el("div", "", { cls: "table" });
+
+// === TABEL RENDEREN ===
+function renderTable() {
+	const filters = {
+		spiergroep: spiergroepSelect.value,
+		type: typeSelect.value,
+		moeilijkheid: moeilijkheidSelect.value,
+		equipment: equipmentSelect.value,
+		search: searchInput.value.toLowerCase()
+	};
+
+	const filtered = data.filter(item =>
+		(!filters.spiergroep || item.spiergroep === filters.spiergroep) &&
+		(!filters.type || item.type === filters.type) &&
+		(!filters.moeilijkheid || item.moeilijkheid === filters.moeilijkheid) &&
+		(!filters.equipment || item.equipment === filters.equipment) &&
+		(!filters.search || item.naam.toLowerCase().includes(filters.search))
+	);
+
+	tableContainer.innerHTML = "";
+
+	const table = document.createElement("table");
+	table.style.width = "100%";
+	table.style.borderCollapse = "collapse";
+
+	// HEADERS
+	const thead = table.createTHead();
+	const headerRow = thead.insertRow();
+	["", "Naam", "Spiergroep", "Type", "Moeilijkheid", "Equipment"]
+		.forEach(h => {
+			const th = document.createElement("th");
+			th.textContent = h;
+			th.style.padding = "6px";
+			th.style.borderBottom = "1px solid #444";
+			headerRow.appendChild(th);
+		});
+
+	// BODY
+	const tbody = table.createTBody();
+
+	filtered.forEach(item => {
+		const row = tbody.insertRow();
+		const color = COLORS[item.spiergroep] || "#888";
+
+		// Optie A: vertical stripe
+		const stripeCell = row.insertCell();
+		stripeCell.style.width = "1px";
+		stripeCell.style.height = "2px";
+		stripeCell.style.backgroundColor = SHOW_COLOR_STRIPE ? color : "transparent";
+		stripeCell.style.padding = "0";
+		stripeCell.style.borderRadius = "6px";
+
+		// Overige cellen
+		const cells = [
+			item.naam,
+			item.spiergroep,
+			item.type,
+			item.moeilijkheid,
+			item.equipment
+		];
+
+		cells.forEach((val, idx) => {
+			const cell = row.insertCell();
+			cell.textContent = val;
+			cell.style.padding = "5px";
+
+			// Optie B: spiergroep tekst kleuren
+			if (idx === 1 && COLOR_TEXT) {
+				cell.style.color = color;
+				cell.style.fontWeight = "600";
+			}
+		});
+	});
+
+	tableContainer.appendChild(table);
+}
+
+[spiergroepSelect, typeSelect, moeilijkheidSelect, equipmentSelect, searchInput]
+	.forEach(el => el.addEventListener("input", renderTable));
+
+renderTable();
+```
+

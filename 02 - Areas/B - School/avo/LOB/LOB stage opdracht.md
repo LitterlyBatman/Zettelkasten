@@ -36,7 +36,7 @@ in dit deel van de opdracht word er gevraagd om opzoek te gaan naar 3 stage bedr
 		https://stagemarkt.nl/stages/stage/geleen/mediazo-bv/stage-1bc4728f-6c3c-40d2-bf36-4d71dbe612d2-25998
 
 # Indeed
- in het tweede deel van de opdracht word er gevraagd om op "Indeed.nl" 3 bedrijven op te zoeken waar je zakelijk intresse in hebt om bijvoorbeeld bij te werken. 
+ in het tweede deel van de opdracht word er gevraagd om op "Indeed.nl" 3 bedrijven op te zoeken waar je zakelijk intresse in hebt om bijvoorbeeld bij te werken. Deze opdracht helpt bij het vertrouwd maken in het opzoek gaan naar vacatures. 
 
 - # **Maastricht University**
 	**software developer**

@@ -4,5 +4,7 @@
   "obsidian-kanban",
   "dataview",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "metaedit",
+  "templater-obsidian"
 ]

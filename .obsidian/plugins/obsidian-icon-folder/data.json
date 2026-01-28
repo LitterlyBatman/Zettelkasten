@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode2",
+      "LiMap",
       "LiSettings",
       "LiActivity",
-      "LiLibraryBig",
-      "LiNotebookPen",
-      "LiAreaChart"
+      "LiLibraryBig"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,13 +34,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00 - Maps Of Content": "FarMap",
+  "00 - Maps Of Content": "LiMap",
   "01 - Projects": "LiGlobe2",
-  "07 - Archived": "LiArchive",
   "03 - Resources": "LiFolder",
   "02 - Areas": "LiAreaChart",
   "05 - Fleeting": "LiNotebookPen",
   "04 - Permanent": "LiLibraryBig",
-  "06 - full notes": "LiActivity",
-  "99 - Meta": "LiSettings"
+  "99 - Meta": "LiSettings",
+  "06 - Full notes": "LiActivity",
+  "00 - Maps Of Content/development": "LiCode2",
+  "07 - Archived": "LiArchive"
 }

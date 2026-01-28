@@ -1,0 +1,1 @@
+world politics have confiscated the internet, people are tracked on every step and breath they take. a digital rebbel seizes this control from the government and gives pieces of it back to the public. resulting in a confusing state war between the people wanting to be free and the controlling state. 

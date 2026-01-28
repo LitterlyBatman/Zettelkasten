@@ -8,12 +8,11 @@ progress:
 
 https://chatgpt.com/c/67f2c2dd-c5b8-8004-b022-5056c529198e
 
-![[Recources\Images\Pasted image 20250406214235.png]]
-
 Ik heb besloten mijn Obsidian vault opnieuw aan te pakken en te restylen, ook de architectuur binnen de vault gaat veranderen. naar een systeem dat ik lang geleden al had willen doen.
 
 Ik ga een combinatie gebruiken van het Zettelkasten systeem en het PARA systeem
 
+---
 ## Het Zettelkasten Systeem:
 > Het zettelkasten systeem werkt door notities te organiseren in
    3 catagorien, [Fleeting]  [Literature]  [Permanent]
@@ -44,8 +43,41 @@ Ik ga een combinatie gebruiken van het Zettelkasten systeem en het PARA systeem
 
 ![[Pasted image 20250407222633.png]]
 
+---
+
 # Personal Tags
-> 
+
+Welke onderwerpen en intresses wil ik expliciet uitlichten met het gebruiken van tags?
+
+onderwerpen die vaak voorkomen zoals school en programmeren zijn natuurlijk niet te missen maar hier moeten we ook nadenken over ondewerpen met veel uitrijkende takken zoals philosophy, cultuur en geschiedenis. 
+
+Philosophy 
+> Greek
+> European
+> Ethics
+> Nihilism
+> Exentialism
+
+Computer Science
+>embedded
+>software
+>documentation
+>electrical science
+
+Programmeren
+>diverse talen
+>structuren
+>algoritme
+>AI
+>systemen
+
+## Tagging and Embeds 
+---
+
+
+## :LiGitFork: Graph Vieuw
+---
+In de graph vieuw hebben we de mogelijkheid
 
 
 **Refrences**

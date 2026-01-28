@@ -1,0 +1,1 @@
+when challenged, imagine you have already won, imagine you already have achieved its greatness. So stress not about the uncertain, remember what you did to win. and follow it again.

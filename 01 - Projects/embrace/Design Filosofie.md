@@ -6,13 +6,11 @@ progress: >
 
 # Orientatie
 ---
-Technisch georienteerde streetware gemaakt om lang mee te gaan, gedesigned voor een optimale ergonomische ervaring. Functioneel, stijlvol en uit gedacht.
-
-Donker aardtonig uitgewerkt met detail.
+Focus op functioneel duurzame kleding, kleding die comfortabel zit, de pasvorm van je lichaam aanneemt en stijlvol voorkomt, met aandacht aan techinsche functionaliteit zoals de plek van de zakken, materialen en stitching. Met aadacht besteed aan lichaams vorm en pasvorm van de kleding.
 
 # Design Filosofie
 ---
-Embrace herrinnerd je om aanwezig te zijn, actief te zijn in het moment en te omarmen wat je hebt en wat je krijgt. 
+Embrace herrinnerd je om aanwezig te zijn, actief te zijn in het moment en te omarmen wat je hebt en wat je krijgt. Tegenwoordig is het word er bijna neergekeken op passie, passie hebben voor een intresse word vaak al snel als cringe gezien. Embrace laat zien dat je trots op je passie bent, dat je niet bang bent om te uiten wie je bent.
 
 Kleding voor iedereen, van goede kwaliteit en betrouwbare leverancieren met eerlijke productie. 
 We richten ons op een jong volwassen doelgroep met een streetware brand. 

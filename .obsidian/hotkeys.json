@@ -1,19 +1,18 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "workspace:new-tab": [],
   "file-explorer:move-file": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }
