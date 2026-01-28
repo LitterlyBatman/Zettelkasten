@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "496004854cb82b8a",
+        "id": "addc3185b9732b07",
         "type": "tabs",
         "children": [
           {
-            "id": "8b3503c4a228b245",
+            "id": "e7c4ede20bfc8ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
+                "file": "05 - Fleeting/Bottlenet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,69 +28,117 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 - Bliep Admin Website"
+              "title": "Bottlenet"
             }
           },
           {
-            "id": "4e3236b80c9565f6",
+            "id": "09ae7a359b856d30",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Macro Client.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Macro Client"
+            }
+          },
+          {
+            "id": "42e491a7ff6bd64d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timer game.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Timer game"
+            }
+          },
+          {
+            "id": "65e62ebe75bad9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAR voorstelling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SAR voorstelling"
+            }
+          },
+          {
+            "id": "6da704a945592022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stage sollicitatie Kembit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "stage sollicitatie Kembit"
+            }
+          },
+          {
+            "id": "7aeddd953bb255eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ee8752d4c7d8e094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/templates/Software Documentatie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Software Documentatie"
-            }
-          },
-          {
-            "id": "e075b10c64608f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/project 52 (2025).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "project 52 (2025)"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,8 +170,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#fleeting",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -147,33 +195,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 201.5
   },
   "right": {
     "id": "b2eaaee4a45c9856",
     "type": "split",
     "children": [
       {
-        "id": "cb55d1b01b0368b5",
+        "id": "5617279770579f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0d0ade7d9dceb0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b303a20d8bb58164",
+            "id": "9eff86e6c71775b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
+                "file": "stage sollicitatie Kembit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,25 +221,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 - Bliep Admin Website"
+              "title": "Backlinks for stage sollicitatie Kembit"
             }
           },
           {
-            "id": "6cb082b51fc225e9",
+            "id": "1bbf3036df5f434f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/project 52.md",
+                "file": "stage sollicitatie Kembit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from project 52"
+              "title": "Outgoing links from stage sollicitatie Kembit"
             }
           },
           {
-            "id": "f7df2ab4019f22b6",
+            "id": "138328f431188d39",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -216,22 +254,22 @@
             }
           },
           {
-            "id": "a83ac398b05b3f54",
+            "id": "8233ac01728d6aa7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 rules to writing readable code.md",
+                "file": "stage sollicitatie Kembit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 rules to writing readable code"
+              "title": "Outline of stage sollicitatie Kembit"
             }
           },
           {
-            "id": "1013f2350ad80d3d",
+            "id": "f0bcc2b2388cdf93",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -241,73 +279,75 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 467.5
+    "width": 710.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e075b10c64608f2e",
+  "active": "f0bcc2b2388cdf93",
   "lastOpenFiles": [
-    "99 - Meta/templates/Software Documentatie.md",
-    "99 - Meta/templates/Full note.md",
-    "99 - Meta/Untitled.md",
-    "99 - Meta/templates/Field note.md",
-    "3 rules to writing readable code.md",
-    "99 - Meta/templates",
-    "04 - Permanent/project 52 (2025).md",
-    "02 - Areas/Must watch.md",
-    "06 - full notes/Vinyl wishlist.md",
-    "01 - Projects/!Bliep/1 - Bliep Admin Website.md",
-    "99 - Meta/coding project.md",
-    "01 - Projects/!Bliep/C - UI.md",
-    "01 - Projects/!Bliep/B - Bliep!.md",
-    "01 - Projects/!Bliep/D - APP.md",
-    "01 - Projects/!Bliep/4 - Bliep v2.canvas",
-    "01 - Projects/!Bliep/3 - Bliep Function Benodigheden.md",
-    "01 - Projects/!Bliep/2 - Bliep bespreking Jibbe.md",
-    "01 - Projects/ADH-Diddy.md",
-    "01 - Projects/embrace/Design Filosofie.md",
-    "03 - Resources/Images/Pasted image 20240311135601.png",
-    "React Native.md",
-    "the integrate structural coherence of humanity.md",
-    "Untitled.md",
-    "Tarentino Method.md",
-    "02 - Areas/C - Business/Linked-In Beschrijving.md",
-    "02 - Areas/B - School/avo/LOB/LOB stage opdracht.md",
-    "01 - Projects/embrace/website",
-    "Mathematics for programmers.md",
-    "2024 reflection.md",
-    "99 - Meta/wishlist.md",
     "Pasted image 20250408131334.png",
-    "02 - Areas/01 - Zelf studie",
-    "03 - Resources/Images/screen.png",
-    "03 - Resources/Images/mittzon-bureau-walnootfineer-zwart__1209402_pe909191_s5.avif",
-    "03 - Resources/Images/Pasted image 20250407222633.png",
-    "03 - Resources/Images/Pasted image 20250406214133.png",
-    "Pasted image 20250406214235.png",
-    "03 - Resources/Images/Pasted image 20250406214022.png",
-    "02 - Areas/A - Computer sience",
-    "07 - Archived",
-    "03 - Resources/Images/Pasted image 20240917201341.png",
-    "03 - Resources/Images/Pasted image 20250202211459.png",
-    "- 3 tags/Untitled",
-    "How to concentrate",
-    "02 - Areas/B - School/avo/Engels/Untitled 2",
-    "02 - Areas/B - School/avo/Engels/Untitled 1",
-    "02 - Areas/B - School/avo/Engels/Untitled",
-    "Untitled.canvas"
+    "99 - Meta/watch wishlist.md",
+    "99 - Meta/supplements.md",
+    "99 - Meta/money.md",
+    "07 - Archived/Untitled.md",
+    "05 - Fleeting/wishlist website.md",
+    "05 - Fleeting/no hesitation highway racer game.md",
+    "05 - Fleeting/camping and travel tips.md",
+    "05 - Fleeting/The Three-Body Problem.md",
+    "05 - Fleeting/Suits.md",
+    "05 - Fleeting/De velden buiten het mensenlijk brein - Maryn Salemink.md",
+    "05 - Fleeting/Databases.md",
+    "03 - Resources/Books/Book list.md",
+    "01 - Projects/!Bliep/1ns$p@ Krant/Week 1.md",
+    "stage sollicitatie COR-iT.md",
+    "99 - Meta/stage.md",
+    "SAR voorstelling.md",
+    "stage sollicitatie Kembit.md",
+    "Timer game.md",
+    "Macro Client.md",
+    "05 - Fleeting/Bottlenet.md",
+    "SAR ontwikkelings plan community hub.md",
+    "SAR.md",
+    "Xatec.md",
+    "99 - Meta/templates/Full note.md",
+    "zoroastrian religion.md",
+    "99 - Meta/WhatsApp Image 2025-09-15 at 14.42.06.jpeg",
+    "99 - Meta/verkeersborden4.png",
+    "99 - Meta/verkeersborden3.png",
+    "99 - Meta/verkeersborden2.png",
+    "99 - Meta/verkeersborden1.png",
+    "Base.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled 3.base",
+    "Pasted image 20251130145128.png",
+    "Pasted image 20251123180820.png",
+    "Pasted image 20251123174519.png",
+    "Pasted image 20251123173342.png",
+    "Pasted image 20251026195845.png",
+    "Verslag P4",
+    "Gesprek Geert-Jan 9/29",
+    "Gesprek Geert-Jan 9",
+    "00 - Maps Of Content/School",
+    "00 - Maps Of Content/development/Portfolio",
+    "00 - Maps Of Content/Trading",
+    "01 - Projects/!Bliep/4 - Bliep v2.canvas"
   ]
 }
