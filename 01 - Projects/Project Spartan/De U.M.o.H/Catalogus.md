@@ -5,7 +5,7 @@ topic: gym
 
 ```dataviewjs
 // === CONFIG ===
-const SHOW_COLOR_STRIPE = false;   // verticale kleurstreep links
+const SHOW_COLOR_STRIPE = true;   // verticale kleurstreep links
 const COLOR_TEXT = true;         // spiergroep tekst kleuren
 
 const databaseFile = "oefeningen";
@@ -20,7 +20,7 @@ const COLORS = {
 	"Core": "#e54f9b",
 	"Abs": "#e3365e"
 };
-
+w
 // === DATA OPHALEN ===
 const file = dv.page(databaseFile);
 if (!file || !file.oefeningen) {
@@ -111,9 +111,11 @@ function renderTable() {
 
 		// Optie A: vertical stripe
 		const stripeCell = row.insertCell();
-		stripeCell.style.width = "6px";
+		stripeCell.style.width = "1px";
 		stripeCell.style.height = "2px";
 		stripeCell.style.backgroundColor = SHOW_COLOR_STRIPE ? color : "transparent";
+		stripeCell.style.padding = "0";
+		stripeCell.style.borderRadius = "6px";
 
 		// Overige cellen
 		const cells = [

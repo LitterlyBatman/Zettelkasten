@@ -17,7 +17,7 @@ topic: software-docu
 
 #### 2. Doel & Beschrijving
 **Korte samenvatting:**  
-Debuggers is een firstperson arch game vanuit een BIT perspectief, jij als developper bestuurd een soort drone in een computer waarmee je bugs gaat oplossen. Tijdens het oplossen van deze bugs vecht je met zwaarden en bijlen in een MMORPG stijl 
+Debuggers is een firstperson arch game vanuit een BIT perspectief, jij als developper bestuurd een soort drone in een computer waarmee je bugs gaat oplossen. Tijdens het oplossen van deze bugs vecht je met zwaarden en bijlen in een MMORPG stijl  
 
 **Belangrijkste functies:**  
 - [ ] 

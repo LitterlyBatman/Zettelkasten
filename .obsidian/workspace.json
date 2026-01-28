@@ -4,20 +4,141 @@
     "type": "split",
     "children": [
       {
-        "id": "4f1388f3f732f872",
+        "id": "addc3185b9732b07",
         "type": "tabs",
         "children": [
           {
-            "id": "e9408ab47eb68d25",
+            "id": "e7c4ede20bfc8ff8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/Bottlenet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bottlenet"
+            }
+          },
+          {
+            "id": "09ae7a359b856d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macro Client.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Macro Client"
+            }
+          },
+          {
+            "id": "42e491a7ff6bd64d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timer game.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Timer game"
+            }
+          },
+          {
+            "id": "65e62ebe75bad9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAR voorstelling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SAR voorstelling"
+            }
+          },
+          {
+            "id": "6da704a945592022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stage sollicitatie Kembit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "stage sollicitatie Kembit"
+            }
+          },
+          {
+            "id": "7aeddd953bb255eb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -81,16 +202,16 @@
     "type": "split",
     "children": [
       {
-        "id": "beb3d23b781f86e3",
+        "id": "5617279770579f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "76d143ac8490312d",
+            "id": "9eff86e6c71775b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "stage sollicitatie Kembit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +221,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for stage sollicitatie Kembit"
             }
           },
           {
-            "id": "65b71d5d69952795",
+            "id": "1bbf3036df5f434f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "stage sollicitatie Kembit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from stage sollicitatie Kembit"
             }
           },
           {
-            "id": "eacdf3e76a4dd70c",
+            "id": "138328f431188d39",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,22 +254,22 @@
             }
           },
           {
-            "id": "9b9e60da1615dd3e",
+            "id": "8233ac01728d6aa7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "stage sollicitatie Kembit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of stage sollicitatie Kembit"
             }
           },
           {
-            "id": "db68cd722995fc94",
+            "id": "f0bcc2b2388cdf93",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,7 +283,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 710.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,55 +299,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db68cd722995fc94",
+  "active": "7aeddd953bb255eb",
   "lastOpenFiles": [
+    "stage sollicitatie COR-iT.md",
+    "99 - Meta/stage.md",
+    "SAR voorstelling.md",
+    "stage sollicitatie Kembit.md",
+    "Timer game.md",
+    "Macro Client.md",
+    "05 - Fleeting/Bottlenet.md",
+    "SAR ontwikkelings plan community hub.md",
+    "SAR.md",
+    "Xatec.md",
+    "99 - Meta/templates/Full note.md",
+    "zoroastrian religion.md",
+    "99 - Meta/WhatsApp Image 2025-09-15 at 14.42.06.jpeg",
+    "99 - Meta/verkeersborden4.png",
+    "99 - Meta/verkeersborden3.png",
+    "99 - Meta/verkeersborden2.png",
+    "99 - Meta/verkeersborden1.png",
+    "Thatcord.md",
+    "idea.md",
     "05 - Fleeting/auto theorie.md",
+    "DeBuggers.md",
+    "02 - Areas/Must watch.md",
+    "Base.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled 3.base",
+    "Untitled.md",
+    "01 - Projects/Project Spartan/De U.M.o.H/Catalogus.md",
+    "01 - Projects/Project Spartan/De U.M.o.H/oefeningen.md",
+    "Schema.md",
+    "02 - Areas/B - School/avo/Nederlands/Nederlands Schrijven 3F, Oefenexamen.md",
+    "Stage Sollicitatiebrief Aliens Marketing.md",
+    "02 - Areas/C - Business/one liners/Startups/Embrace.md",
+    "Roblox Game idea.md",
+    "cyberpunk game.md",
+    "Pasted image 20251130145128.png",
+    "Pasted image 20251123180820.png",
     "Pasted image 20251123174519.png",
     "Pasted image 20251123173342.png",
-    "01 - Projects/Project Spartan/De U.M.o.H/oefeningen.md",
-    "01 - Projects/Project Spartan/De U.M.o.H/Catalogus.md",
-    "01 - Projects/ADH-Diddy.md",
-    "catalo.md",
-    "open.md",
-    "Schema.md",
-    "FWAV Architecture.md",
-    "FWaV Back-End.md",
-    "Ontwikkel plan Energiespel.NL.md",
-    "Opdracht Geert-Jan Driessen Embedded 9-29-2025.md",
-    "DeBuggers.md",
-    "Shalender.md",
-    "Energie Spel .NL.md",
-    "Gesprek Geert-Jan Embedded.md",
-    "Game.md",
-    "ListIt.md",
-    "02 - Areas/Must watch.md",
-    "99 - Meta/templates/Software Documentatie.md",
-    "Examen Presentatie.md",
-    "niew vista ICT concept.md",
-    "Sollicitatiebrief Café Servaas.md",
-    "Maastrichts Vista Partij.md",
-    "excercises.md",
-    "Daily guitar excercises.md",
-    "99 - Meta/fitness.md",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "verkeersborden1.png",
-    "verkeersborden2.png",
-    "verkeersborden3.png",
-    "verkeersborden4.png",
     "Pasted image 20251026195845.png",
-    "Untitled 1.base",
-    "Untitled.base",
     "Verslag P4",
-    "Pasted image 20250929131908.png",
     "Gesprek Geert-Jan 9/29",
     "Gesprek Geert-Jan 9",
-    "FWaVgroepsindeling.jpeg",
-    "WhatsApp Image 2025-09-15 at 14.42.06.jpeg",
     "00 - Maps Of Content/School",
     "00 - Maps Of Content/development/Portfolio",
     "00 - Maps Of Content/Trading",
-    "01 - Projects/!Bliep/4 - Bliep v2.canvas",
-    "Untitled.canvas"
+    "01 - Projects/!Bliep/4 - Bliep v2.canvas"
   ]
 }

@@ -12,6 +12,14 @@ progress: >
 
 in dit bestand bevinden zich alle schema veranten die bij mij doelen en richtlijnen passen.
 
+#### Jeff Nippards upper workout
+
+incline barbell bench press
+seated cable fly (focus on elbows and arching back covering as much space as possible)
+pull up. 
+side lateral raise
+deficit pendlay row
+cable overhead tricep extensions
 ### Upper
 ---
 -Chest
