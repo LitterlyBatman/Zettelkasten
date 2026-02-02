@@ -136,9 +136,57 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "b834ff4789d8641d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Challenge Zone.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Challenge Zone"
+            }
+          },
+          {
+            "id": "c4ef9b5203f26594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text Prograss bar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Text Prograss bar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -283,7 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,50 +347,50 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0bcc2b2388cdf93",
+  "active": "c4ef9b5203f26594",
   "lastOpenFiles": [
-    "stage sollicitatie COR-iT.md",
-    "99 - Meta/stage.md",
-    "SAR voorstelling.md",
+    "The Challenge Zone.md",
+    "Text Prograss bar.md",
+    "2026-02-02.md",
+    "99 - Meta/plugins.md",
+    "99 - Meta/TCZ.md",
     "stage sollicitatie Kembit.md",
+    "SAR voorstelling.md",
     "Timer game.md",
     "Macro Client.md",
     "05 - Fleeting/Bottlenet.md",
-    "SAR ontwikkelings plan community hub.md",
-    "SAR.md",
-    "Xatec.md",
-    "99 - Meta/templates/Full note.md",
     "zoroastrian religion.md",
-    "99 - Meta/WhatsApp Image 2025-09-15 at 14.42.06.jpeg",
-    "99 - Meta/verkeersborden4.png",
-    "99 - Meta/verkeersborden3.png",
-    "99 - Meta/verkeersborden2.png",
-    "99 - Meta/verkeersborden1.png",
-    "Thatcord.md",
+    "walkie talkies.md",
+    "verslag ES.nl (Geert-Jan).md",
+    "vault intro.md",
+    "start periode 1-2026.md",
+    "stage sollicitatie COR-iT.md",
+    "nutri salad.md",
+    "notities embedded.md",
+    "notities auto theorie.md",
+    "niew vista ICT concept.md",
+    "mod watch wishlist.md",
+    "mini essays.md",
+    "inhoud CV.md",
     "idea.md",
-    "05 - Fleeting/auto theorie.md",
-    "DeBuggers.md",
-    "02 - Areas/Must watch.md",
-    "Base.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled 3.base",
-    "Untitled.md",
-    "01 - Projects/Project Spartan/De U.M.o.H/Catalogus.md",
-    "01 - Projects/Project Spartan/De U.M.o.H/oefeningen.md",
-    "Schema.md",
-    "02 - Areas/B - School/avo/Nederlands/Nederlands Schrijven 3F, Oefenexamen.md",
-    "Stage Sollicitatiebrief Aliens Marketing.md",
-    "02 - Areas/C - Business/one liners/Startups/Embrace.md",
-    "Roblox Game idea.md",
-    "cyberpunk game.md",
+    "fe-mail.md",
+    "excercises.md",
+    "Verslag P4",
     "Pasted image 20251130145128.png",
     "Pasted image 20251123180820.png",
     "Pasted image 20251123174519.png",
     "Pasted image 20251123173342.png",
     "Pasted image 20251026195845.png",
-    "Verslag P4",
+    "Pasted image 20250929131908.png",
+    "Pasted image 20250908093459.png",
+    "FWaVgroepsindeling.jpeg",
+    "Base.base",
+    "99 - Meta/verkeersborden4.png",
+    "99 - Meta/verkeersborden3.png",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Untitled 3.base",
     "Gesprek Geert-Jan 9/29",
     "Gesprek Geert-Jan 9",
     "00 - Maps Of Content/School",
